@@ -1,0 +1,7 @@
+[package]
+name = "knobimage"
+version = "0.1.0"
+authors = ["Alexander <alexander@resamplr.com>"]
+
+[dependencies]
+image = "*"
